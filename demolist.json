@@ -1,0 +1,10 @@
+{ "stations": [{"name":"Москва", "latitude":43.230478, "longitude":76.867320},
+{"name":"Сайран", "latitude":43.2368, "longitude":76.8781},
+{"name":"Алатау", "latitude":43.2395, "longitude":76.8990},
+{"name":"Мухтар Ауезов театр", "latitude":43.2406, "longitude":76.9173},
+{"name":"Байконыр", "latitude":43.2399, "longitude":76.9273},
+{"name":"Абай", "latitude":43.2425, "longitude":76.9506},
+{"name":"Алмалы", "latitude":43.2514, "longitude":76.9456},
+{"name":"Жибек жолы", "latitude":43.2596, "longitude":76.9448},
+{"name":"Райымбек батыр", "latitude":43.2706, "longitude":76.9452},
+{"name":"error", "latitude":0.00, "longitude":0.00}]}
